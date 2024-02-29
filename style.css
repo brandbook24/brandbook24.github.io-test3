@@ -273,6 +273,15 @@ color: #1d3a91;
   font-family: "Segoe Print";
 }
 
+.footer-link: hover {
+color: rgba(255, 255, 255, 0.5);
+text-decoration-line: underline;
+
+}
+
+
+
+
 .footer-navigation {
   list-style: none;
   padding: 0;
@@ -302,7 +311,7 @@ color: #1d3a91;
 
 .footer-menu-item a:hover {
  color: rgba(255, 255, 255, 0.5);
-text-decoration: underline;
+text-decoration-line: underline;
 }
 
 
